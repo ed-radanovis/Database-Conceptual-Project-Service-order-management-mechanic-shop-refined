@@ -28,7 +28,7 @@ Academic project for delivery
     </td>
     <td align="center">
        <a href="https://www.dio.me/">
-        <img src="./assets/logodio.jpg" width="130px;" height="50px;" alt="Logo DIO.me"/><br>
+        <img src="./assets/logodio.jpg" width="50px;" height="50px;" alt="Logo DIO.me"/><br>
         <sub>
           <b>DIO.me</b>
         </sub>
